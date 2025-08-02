@@ -13,6 +13,15 @@ A clean and fun **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **JavaScr
 
 ---
 
+## 🕹 How to Play
+
+* Click on any empty cell to place your mark (X or O).
+* Players alternate turns.
+* The first player to get three in a row (horizontal, vertical, or diagonal) wins.
+* If all cells are filled without a winner, the game ends in a draw.
+
+---
+
 ## 🚀 Getting Started
 
 1. 📥 Clone or download this repository
@@ -35,7 +44,13 @@ Tic-Tac-Toe-Game/
 
 ## 📸 Screenshot
 
-![screenshot](screenshot.png) <sub><sup>※ Replace with your actual gameplay screenshot</sup></sub>
+![First look of the game](https://github.com/Abad-Ali/Tic_Tac_Toe/blob/ced904354d0e1e61d32f8b0e4a7a34523651a9d1/Screenshot%202025-08-03%20003446.png)
+
+![When match is tie](https://github.com/Abad-Ali/Tic_Tac_Toe/blob/ced904354d0e1e61d32f8b0e4a7a34523651a9d1/Screenshot%202025-08-03%20003459.png)
+
+![O is winner](https://github.com/Abad-Ali/Tic_Tac_Toe/blob/ced904354d0e1e61d32f8b0e4a7a34523651a9d1/Screenshot%202025-08-03%20003516.png)
+
+![X is winner](https://github.com/Abad-Ali/Tic_Tac_Toe/blob/ced904354d0e1e61d32f8b0e4a7a34523651a9d1/Screenshot%202025-08-03%20003529.png)
 
 ---
 

@@ -34,10 +34,14 @@ A clean and fun **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **JavaScr
 
 ```
 Tic-Tac-Toe-Game/
-├── index.html     # 🎨 Structure
-├── style.css      # 💅 Styling
-├── script.js      # 🧠 Game logic
-└── README.md      # 📘 Documentation
+├── Screenshot 2025-08-03 003446.png  # 📸 Game screenshots
+├── Screenshot 2025-08-03 003459.png
+├── Screenshot 2025-08-03 003516.png
+├── Screenshot 2025-08-03 003529.png
+├── index.html                        # 🎨 Structure
+├── style.css                         # 💅 Styling
+├── app.js                            # 🧠 Game logic
+└── README.md                         # 📘 Documentation
 ```
 
 ---
